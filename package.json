@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-helpers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanWithams/tailwind-helpers.git"
+  },
+  "author": "me@danwithams.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanWithams/tailwind-helpers/issues"
+  },
+  "homepage": "https://github.com/DanWithams/tailwind-helpers#readme",
+  "dependencies": {
+    "tailwind-merge": "^2.2.2"
+  }
+}
